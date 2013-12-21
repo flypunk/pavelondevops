@@ -18,7 +18,7 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Leonid Mirsky', 'https://github.com/leonidlm/leonidlm.github.io'),
+          ('Leonid Mirsky', 'http://leonidmirsky.com/'),
           )
 
 # Social widget
