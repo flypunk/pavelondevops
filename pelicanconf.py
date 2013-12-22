@@ -8,6 +8,8 @@ SITEURL = ''
 
 TIMEZONE = 'Asia/Jerusalem'
 DISQUS_SITENAME = "pavelondevops"
+GOOGLE_ANALYTICS = 'UA-39619824-4'
+TWITTER_USERNAME = 'pavelsuchman'
 DEFAULT_LANG = u'en'
 DEFAULT_DATE = 'fs'
 
